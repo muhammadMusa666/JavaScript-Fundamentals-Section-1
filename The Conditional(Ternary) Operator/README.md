@@ -1,0 +1,3 @@
+# This Subrepo Teaches You About anotehr operator, called the conditional operator or ternary operator, you might think why i made an entire repo/subrepo on one operator, well that is because it is very useful in many cases, and it is also confusing for beginners, but you will understand it soon enough, you can modify the code and practice on it, let know if you see any errors. I Hope U Like It!
+
+# Made With Love By Musa!
